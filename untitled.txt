@@ -1,0 +1,42 @@
+Answers to the Questions of Assignment-1:
+
+1---> Guido van Rossum
+
+2---> Object oriented, Structured and Functional Programming are supported by Python.
+
+3---> Yes, It is case sensitive.
+
+4---> .py is the correct extension of a python file.
+
+5---> Pyton code is INTERPRETED.
+
+6---> A module, A Class definition and a function body.
+
+7---> #
+
+8---> sys.version, python_version()
+
+9---> lambda
+
+10---> Preferred Installer Program
+
+11---> print(), type(), len(), pow(), sum(), dir()
+
+12---> 79 Characters
+
+13---> (1) Easy to Learn, (2) Easy to Use, (3) Interpreted Language, (4) Open source, (5) Easily Portable, (6) Masive Libraries.
+
+14---> Memory in Python is managed by Python private heap space. All Python objects and data structures are located in a private heap. This private heap is taken care of by Python Interpreter itself, and a programmer doesn't have access to this private heap.
+
+15---> To install:- Go to python.org and install from there.
+
+To set path variables:-
+Right click on My Computer and click on properties.
+Click on Advanced System settings.
+Click on Environment Variable tab.
+Click on new tab of user variables.
+Write path in variable name.
+Copy the path of Python folder.
+Paste path of Python in variable value.
+
+16---> YES
